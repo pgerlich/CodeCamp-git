@@ -1,11 +1,18 @@
 #CodeCamp-git
 
+##Secret Agent Site
+The secret agent site is hosted on the *gh-pages* branch at `http://noahhines.github.io/CodeCamp-git`
+
 ##TODO
+Finish slides for presentation
+Design secret agent site for interactive demo
 
-A lot of things.
+---
 
-Credit
+##Credit
 
 Noah Hines
 
 Paul Gerlich
+
+
